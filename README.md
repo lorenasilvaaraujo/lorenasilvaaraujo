@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lorenasilvaaraujo
 - 👀 I’m interested in Aquaponics, PKM, AI, Simbiotic relationships
 - 🌱 I’m currently learning how to improve my PKM for research and idea emergence and connections
-- 💞️ I’m looking to collaborate on Aquaponics --> www.aquaponics.dev
+- 💞️ I’m looking to collaborate on Aquaponics --> [www.aquaponics.dev](https://aquaponics.dev/)
 - 📫 How to reach me @ LorenaSA.com
 
 <!---
